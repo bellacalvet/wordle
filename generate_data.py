@@ -1,7 +1,6 @@
 '''
 Run this preliminary script to generate the data files in /data
 These files are required to compute the optimal next guess in wordle.py
-Alternatively you can also download the pre-generated files from the /data folder in my GitHub repository
 '''
 import sys
 
